@@ -14,3 +14,11 @@ Criação do templates dos contatos:
 \djAgPy\appContatos\templates
 Criação do contatoIndex.html
 appContatos\templates\appContatos\contatoIndex.html
+Criação da pasta djTemplates
+\djAgPy\djTemplates
+Preparo da pasta djTemplates\parciais
+\djAgPy\djTemplates\parciais\tempHead.html
+\djAgPy\djTemplates\parciais\tempNavMenu.html
+Preparo da pasta djTemplates\static
+\djTemplates\static\vendor\bootstrap
+\djTemplates\static\vendor\jquery
