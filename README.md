@@ -16,6 +16,7 @@ Criação do contatoIndex.html
 appContatos\templates\appContatos\contatoIndex.html
 Criação da pasta djTemplates
 \djAgPy\djTemplates
+Criação do arquivo djTemplates\tempIndex.html
 Preparo da pasta djTemplates\parciais
 \djAgPy\djTemplates\parciais\tempHead.html
 \djAgPy\djTemplates\parciais\tempNavMenu.html
